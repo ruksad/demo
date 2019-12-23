@@ -1,14 +1,101 @@
-{
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
+ {
+    dbSize:12000,
+  "experimentKeyToPop": {
+    "16821430195": {
+      "tested": 7,
+      "found": 0,
+      "percentage": "0.00",
+      "experimentFromDataFile": true
+    },
+    "16673050110": {
+      "tested": 7,
+      "found": 0,
+      "percentage": "0.00",
+      "experimentFromDataFile": true
+    },
+    "14556510033": {
+      "tested": 7,
+      "found": 0,
+      "percentage": "0.00",
+      "experimentFromDataFile": true
+    },
+    "15937200133": {
+      "tested": 7,
+      "found": 0,
+      "percentage": "0.00",
+      "experimentFromDataFile": true
+    },
+    "15452890299": {
+      "tested": 7,
+      "found": 0,
+      "percentage": "0.00",
+      "experimentFromDataFile": true
+    },
+    "16851810805": {
+      "tested": 7,
+      "found": 0,
+      "percentage": "0.00",
+      "experimentFromDataFile": true
+    },
+    "12113343759": {
+      "tested": 7,
+      "found": 0,
+      "percentage": "0.00",
+      "experimentFromDataFile": true
+    },
+    "16667320016": {
+      "tested": 7,
+      "found": 6,
+      "percentage": "86.67",
+      "experimentFromDataFile": false
+    },
+    "16640560573": {
+      "tested": 7,
+      "found": 0,
+      "percentage": "0.00",
+      "experimentFromDataFile": true
+    },
+    "15692210746": {
+      "tested": 6,
+      "found": 1,
+      "percentage": "15.38",
+      "experimentFromDataFile": false
+    },
+    "13221270386": {
+      "tested": 7,
+      "found": 0,
+      "percentage": "0.00",
+      "experimentFromDataFile": true
+    },
+    "12107641398": {
+      "tested": 7,
+      "found": 0,
+      "percentage": "0.00",
+      "experimentFromDataFile": true
+    },
+    "15589190581": {
+      "tested": 7,
+      "found": 0,
+      "percentage": "0.00",
+      "experimentFromDataFile": true
+    },
+    "13370290318": {
+      "tested": 7,
+      "found": 0,
+      "percentage": "0.00",
+      "experimentFromDataFile": true
+    },
+    "13359630193": {
+      "tested": 7,
+      "found": 0,
+      "percentage": "0.00",
+      "experimentFromDataFile": true
+    },
+    "15637670776": {
+      "tested": 7,
+      "found": 0,
+      "percentage": "0.00",
+      "experimentFromDataFile": true
+    }
   }
 }
